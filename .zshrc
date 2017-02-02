@@ -11,6 +11,7 @@ compinit
 ZSH_THEME="custom"
 HYPHEN_INSENSITIVE="true"
 ENABLE_CORRECTION="true"
+CASE_SENSITIVE="false"
 
 plugins=(git brew gulp heroku node nvm npm sublime zsh-syntax-highlighting)
 
